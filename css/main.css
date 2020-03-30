@@ -10,6 +10,29 @@ img {
   max-width: 200px;
 }
 
-h3 {
-  text-decoration: none;
+.number-title {
+  background-color: #efefef;
+}
+
+.first {
+  background-color: #fff;
+  border-radius: 3px;
+}
+
+.second {
+  background-color: #fff;
+  border-radius: 3px;
+}
+
+.third {
+  background-color: #fff;
+  border-radius: 3px;
+}
+
+table {
+  min-width: 44em;
+}
+
+.search-icon {
+  background-image: url("image/search.svg");
 }
