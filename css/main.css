@@ -9,3 +9,7 @@ header {
 img {
   max-width: 200px;
 }
+
+.i-search {
+  background-image: url("../images/search.svg");
+}
